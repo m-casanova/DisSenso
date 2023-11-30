@@ -1,4 +1,8 @@
 # DisSenso
+Aggiornamento alla versione 1.1.
+
+## Descrizione
+![image](DisSenso-A.jpg)
 
 Il carattere **DisSenso** è basato su un font diffuso agli inizi del Novecento [soprattutto in ambito tedesco](https://www.typeoff.de/2022/08/how-old-is-the-specimen-and-the-typeface/) e
 distribuito con vari nomi, come [*Medea*, *Viktoria* o *Phönix*](https://fontsinuse.com/typefaces/77099/viktoria).
@@ -11,5 +15,3 @@ Il font originario era utilizzato per titoli in varie pubblicazioni socialiste d
 o il quotidiano *Avanti!*; si hanno titoli con questo carattere anche nel mese del rapimento e omicidio di Matteotti
 (ad esempio il [13 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/files/reader.php?f%3DAvanti%201896-1993%20PDF/10.%20Avanti%20Ed.%20Nazionale%20%28Milano%29%201922-1924%20OCR%2FRAV0037037_1924_0140.PDF), pagina 2 e
 il [17 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/files/reader.php?f%3DAvanti%201896-1993%20PDF/10.%20Avanti%20Ed.%20Nazionale%20(Milano)%201922-1924%20OCR/19240617_143_1_Edizione+milanese.pdf), pagina 2). 
-
-![image](DisSenso-A.jpg)
