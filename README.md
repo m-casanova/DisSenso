@@ -2,7 +2,7 @@
 
 Il carattere **DisSenso** è basato su un font diffuso agli inizi del Novecento [soprattutto in ambito tedesco](https://www.typeoff.de/2022/08/how-old-is-the-specimen-and-the-typeface/) e
 distribuito con vari nomi, come [*Medea*, *Viktoria* o *Phönix*](https://fontsinuse.com/typefaces/77099/viktoria).
-Anche in Italia aveva nomi diversi, come *Urania* di [Nebiolo](https://books.google.it/books?id=QBDdVK3ifTMC&pg=RA2-PA97) o come *Serie Milano* di [Pierallini](https://issuu.com/archiviotipografico/docs/pierallini___turchi).
+Anche in Italia aveva nomi diversi, come *Urania* di [Nebiolo](https://books.google.it/books?id=QBDdVK3ifTMC&pg=RA2-PA97) o come *Serie Milano* di [Pierallini](https://issuu.com/archiviotipografico/docs/pierallini___turchi/160).
 
 **Dissenso** è stato realizzato in ricordo di [Giacomo Matteotti](https://it.wikipedia.org/wiki/Giacomo_Matteotti), deputato socialista ucciso da fascisti nel 1924.
 Come previsto dalla [legge 10 luglio 2023, n. 92](https://www.gazzettaufficiale.it/eli/id/2023/07/21/23G00101/sg), «la Repubblica, nell'ambito delle finalita' di salvaguardia e promozione del proprio patrimonio culturale, storico e letterario, celebra la figura di Giacomo Matteotti nella ricorrenza dei cento anni dalla sua morte, promuovendo e valorizzando la conoscenza e lo studio della sua opera e del suo pensiero in ambito nazionale e internazionale.»
