@@ -1,5 +1,7 @@
 # DisSenso
-Aggiornamento alla versione 1.1.
+
+- Versione 1.15: aggiunta di /ß e sostituzione di alcuni caratteri da scansioni migliori.
+- Versione 1.1: sistemazione generale dei caratteri.
 
 ## Descrizione
 ![image](DisSenso-A.jpg)
@@ -12,6 +14,6 @@ Anche in Italia aveva nomi diversi, ad esempio *[Urania](https://books.google.it
 Come previsto dalla [legge 10 luglio 2023, n. 92](https://www.gazzettaufficiale.it/eli/id/2023/07/21/23G00101/sg), «la Repubblica, nell'ambito delle finalita' di salvaguardia e promozione del proprio patrimonio culturale, storico e letterario, celebra la figura di Giacomo Matteotti nella ricorrenza dei cento anni dalla sua morte, promuovendo e valorizzando la conoscenza e lo studio della sua opera e del suo pensiero in ambito nazionale e internazionale.»
 
 Il font originario era utilizzato per titoli in varie pubblicazioni socialiste di quel periodo, come l'*[Almanacco Socialista Italiano](https://books.google.it/books?id=tMSXj9P78NEC&pg=PA1)* (1918);
-nel quotidiano socialista *Avanti!* si hanno titoli con questo carattere anche nel mese del rapimento e omicidio di Matteotti
+nel quotidiano socialista *Avanti!* si hanno titoli con questo carattere anche nello stesso mese dell'omicidio di Matteotti
 (ad esempio il [13 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/files/reader.php?f%3DAvanti%201896-1993%20PDF/10.%20Avanti%20Ed.%20Nazionale%20%28Milano%29%201922-1924%20OCR%2FRAV0037037_1924_0140.PDF), pagina 2 e
 il [17 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/files/reader.php?f%3DAvanti%201896-1993%20PDF/10.%20Avanti%20Ed.%20Nazionale%20(Milano)%201922-1924%20OCR/19240617_143_1_Edizione+milanese.pdf), pagina 2). 
