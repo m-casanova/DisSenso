@@ -3,6 +3,8 @@
 - Versione 1.15: aggiunta di /ß e sostituzione di alcuni caratteri da scansioni migliori.
 - Versione 1.1: sistemazione generale dei caratteri.
 
+Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/DisSenso/).
+
 ## Descrizione
 ![image](DisSenso-A.jpg)
 
