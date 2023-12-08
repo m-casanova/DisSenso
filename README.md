@@ -6,7 +6,7 @@
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/DisSenso/).
 
 ## Descrizione
-![image](DisSenso-A.jpg)
+![image](dissenso.jpg)
 
 Il carattere **DisSenso** è basato su un font diffuso agli inizi del Novecento [soprattutto in ambito tedesco](https://www.typeoff.de/2022/08/how-old-is-the-specimen-and-the-typeface/) e
 distribuito con vari nomi, come [*Medea*, *Viktoria* o *Phönix*](https://fontsinuse.com/typefaces/77099/viktoria).
