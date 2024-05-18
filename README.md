@@ -19,8 +19,8 @@ Il font originario era utilizzato per titoli in varie pubblicazioni di quel peri
 * il titolo dell'*[Almanacco Socialista Italiano](https://books.google.it/books?id=tMSXj9P78NEC&pg=PA1)* (1918)
 * nel quotidiano socialista *Avanti!* si hanno titoli con questo carattere anche nello stesso mese dell'omicidio di Matteotti (ad esempio il [13 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/files/reader.php?f%3DAvanti%201896-1993%20PDF/10.%20Avanti%20Ed.%20Nazionale%20%28Milano%29%201922-1924%20OCR%2FRAV0037037_1924_0140.PDF), pagina 2 e
 il [17 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/files/reader.php?f%3DAvanti%201896-1993%20PDF/10.%20Avanti%20Ed.%20Nazionale%20(Milano)%201922-1924%20OCR/19240617_143_1_Edizione+milanese.pdf), pagina 2);
-* nel quotidiano [_L'Unita. Quotidiano degli operai e dei contadini_](https://www.archivipci.it/mirador.html?manifest-url=https://iiif.fondazionegramsci.org/manifest/iiif-gramsci-0003/6363f3594efac641c596faa4/manifest.json) il carattere compare fin dal primo numero del 12 febbraio 1924.
+* nel quotidiano [_L'Unità. Quotidiano degli operai e dei contadini_](https://www.archivipci.it/mirador.html?manifest-url=https://iiif.fondazionegramsci.org/manifest/iiif-gramsci-0003/6363f3594efac641c596faa4/manifest.json) il carattere compare fin dal primo numero del 12 febbraio 1924.
 
  ![image](Matteotti_1924.jpg)
  
-Immagine: Utilizzo del carattere nel titolo di un articolo sull'omicidio di Giacomo Matteotti in _L'Unita. Quotidiano degli operai e dei contadini_, 4 luglio 1924, p. 1 (Attribuzione: Fondazione Gramsci onlus, [Licenza CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
+Immagine: Utilizzo del carattere nel titolo di un articolo sull'omicidio di Giacomo Matteotti in _L'Unità. Quotidiano degli operai e dei contadini_, 4 luglio 1924, p. 1 (Attribuzione: Fondazione Gramsci onlus, [Licenza CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
