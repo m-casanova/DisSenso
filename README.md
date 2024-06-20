@@ -1,5 +1,5 @@
 # DisSenso
-
+- Versione 1.17: sistemazioni minori
 - Versione 1.15: aggiunta di /ß e sostituzione di alcuni caratteri da scansioni migliori.
 - Versione 1.1: sistemazione generale dei caratteri.
 
@@ -24,3 +24,5 @@ il [17 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/file
  ![image](Matteotti_1924.jpg)
  
 Immagine: Utilizzo del carattere nel titolo di un articolo sull'omicidio di Giacomo Matteotti in _L'Unità. Quotidiano degli operai e dei contadini_, 4 luglio 1924, p. 1 (Attribuzione: Fondazione Gramsci onlus, [Licenza CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
+
+![image](dissenso_b.jpg)
