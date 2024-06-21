@@ -1,4 +1,5 @@
 # DisSenso
+- Versione 1.175: fix kerning
 - Versione 1.17: sistemazioni minori
 - Versione 1.15: aggiunta di /ß e sostituzione di alcuni caratteri da scansioni migliori.
 - Versione 1.1: sistemazione generale dei caratteri.
