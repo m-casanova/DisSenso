@@ -1,4 +1,5 @@
 # DisSenso
+- Versione 1.181: fix esportazione
 - Versione 1.175: fix kerning
 - Versione 1.17: sistemazioni minori
 - Versione 1.15: aggiunta di /ß e sostituzione di alcuni caratteri da scansioni migliori.
@@ -7,7 +8,7 @@
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/DisSenso/).
 
 ## Descrizione
-![image](dissenso.jpg)
+![image](images/dissenso.jpg)
 
 Il carattere **DisSenso** è basato su un font diffuso agli inizi del Novecento [soprattutto in ambito tedesco](https://www.typeoff.de/2022/08/how-old-is-the-specimen-and-the-typeface/) e
 distribuito con vari nomi, come [*Medea*, *Viktoria* o *Phönix*](https://fontsinuse.com/typefaces/77099/viktoria).
@@ -22,8 +23,8 @@ Il font originario era utilizzato per titoli in varie pubblicazioni di quel peri
 il [17 giugno](https://avanti.senato.it/js/pdfjs-dist/web/viewer.html?file=/files/reader.php?f%3DAvanti%201896-1993%20PDF/10.%20Avanti%20Ed.%20Nazionale%20(Milano)%201922-1924%20OCR/19240617_143_1_Edizione+milanese.pdf), pagina 2);
 * nel quotidiano [_L'Unità. Quotidiano degli operai e dei contadini_](https://www.archivipci.it/mirador.html?manifest-url=https://iiif.fondazionegramsci.org/manifest/iiif-gramsci-0003/66d192d0bc904727d084fcae/manifest.json) il carattere compare fin dal primo numero del 12 febbraio 1924.
 
- ![image](Matteotti_1924.jpg)
+ ![image](images/Matteotti_1924.jpg)
  
 Immagine: Utilizzo del carattere nel titolo di un articolo sull'omicidio di Giacomo Matteotti in _L'Unità. Quotidiano degli operai e dei contadini_, 4 luglio 1924, p. 1 (Attribuzione: Fondazione Gramsci onlus, [Licenza CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
 
-![image](dissenso_b.jpg)
+![image](images/dissenso_b.jpg)
