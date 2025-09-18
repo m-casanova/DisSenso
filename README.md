@@ -1,4 +1,5 @@
 # DisSenso
+- Versione 1.185: fix minori
 - Versione 1.181: fix esportazione
 - Versione 1.175: fix kerning
 - Versione 1.17: sistemazioni minori
